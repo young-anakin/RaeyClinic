@@ -1,7 +1,7 @@
-#Raey Clinic System
+# Raey Clinic System
 The Raey Clinic System is a comprehensive web application designed to streamline the management of clinic operations. It offers a user-friendly interface for both clinic staff and patients, enabling efficient scheduling, patient management, and laboratory requests.
 
-##Key Features:
+## Key Features:
 Patient Management: Easily manage patient records, appointments, and medical history.
 Laboratory Requests: Simplify the process of creating and managing lab reports and results.
 User Roles: Support for different user roles, including doctors, nurses, and administrative staff, each with tailored functionalities.
